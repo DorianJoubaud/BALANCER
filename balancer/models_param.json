@@ -1,0 +1,72 @@
+{
+    "GAN": {
+        "subsample": 0.98,
+        "n_estimators": 369,
+        "min_child_weight": 5,
+        "max_depth": 10,
+        "learning_rate": 0.29,
+        "gamma": 0.002,
+        "colsample_bytree": 0.93,
+        "scale_pos_weight": 1
+    },
+    "DTW-SMOTE": {
+        "subsample": 0.97,
+        "n_estimators": 667,
+        "min_child_weight": 3,
+        "max_depth": 10,
+        "learning_rate": 0.25,
+        "gamma": 0.007,
+        "colsample_bytree": 0.96,
+        "scale_pos_weight": 2
+    },
+    "Ada": {
+        "subsample": 0.85,
+        "n_estimators": 340,
+        "min_child_weight": 2,
+        "max_depth": 10,
+        "learning_rate": 0.08,
+        "gamma": 0.001,
+        "colsample_bytree": 0.96,
+        "scale_pos_weight": 5
+    },
+    "SMOTE": {
+        "subsample": 0.79,
+        "n_estimators": 410,
+        "min_child_weight": 4,
+        "max_depth": 8,
+        "learning_rate": 0.05,
+        "gamma": 0.002,
+        "colsample_bytree": 0.91,
+        "scale_pos_weight": 2
+    },
+    "Jit": {
+        "subsample": 0.91,
+        "n_estimators": 302,
+        "min_child_weight": 1,
+        "max_depth": 10,
+        "learning_rate": 0.1,
+        "gamma": 0.004,
+        "colsample_bytree": 0.99,
+        "scale_pos_weight": 4
+    },
+    "TW": {
+        "subsample": 0.96,
+        "n_estimators": 660,
+        "min_child_weight": 1,
+        "max_depth": 10,
+        "learning_rate": 0.3,
+        "gamma": 0.004,
+        "colsample_bytree": 0.59,
+        "scale_pos_weight": 4
+    },
+    "ROS": {
+        "subsample": 0.75,
+        "n_estimators": 382,
+        "min_child_weight": 4,
+        "max_depth": 7,
+        "learning_rate": 0.04,
+        "gamma": 0.001,
+        "colsample_bytree": 0.96,
+        "scale_pos_weight": 4
+    }
+}
