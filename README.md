@@ -59,7 +59,3 @@ The repository includes an example in the form of a Jupyter Notebook (`example_r
    ```
 2. Follow the instructions in the notebook to run the model on a sample dataset and visualize the recommended DA techniques and their performance.
 
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
