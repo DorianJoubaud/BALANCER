@@ -1,0 +1,7 @@
+numpy==1.26.4
+pandas==2.2.1
+xgboost==2.0.3
+scipy==1.7.1
+scikit-learn==1.4.0
+matplotlib==3.9.1
+pycatch22==0.4.5
