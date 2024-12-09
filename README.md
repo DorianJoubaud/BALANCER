@@ -8,8 +8,7 @@ This repository contains the implementation of **BALANCER** (imBALanced AugmeNta
 - [Installation](#installation)
 - [Usage](#usage)
   - [Running BALANCER](#running-balancer)
-  - [Understanding the Example](#understanding-the-example)
-- [License](#license)
+  - [Understanding the Example](#notebook-example)
 
 ## Overview
 
@@ -28,7 +27,7 @@ By evaluating various time-series datasets and classifiers, BALANCER predicts wh
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/balancer.git
+   git clone https://github.com/DorianJoubaud/balancer.git
    cd balancer
    ```
 
@@ -49,9 +48,9 @@ You can run BALANCER with your own time-series dataset by following these steps:
    python balancer.py
    ```
 
-### Understanding the Example
+### Notebook Example
 
-The repository includes an example in the form of a Jupyter Notebook (`example_run.ipynb`). It demonstrates how to use the BALANCER model with a sample dataset.
+The repository includes an example in the form of a Jupyter Notebook (`example_run.ipynb`). It demonstrates how to use the BALANCER model with a simple dataset.
 
 1. Open the Jupyter Notebook:
    ```bash
