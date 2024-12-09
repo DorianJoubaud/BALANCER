@@ -7,7 +7,6 @@ This repository contains the implementation of **BALANCER** (imBALanced AugmeNta
 - [Overview](#overview)
 - [Installation](#installation)
 - [Usage](#usage)
-  - [Running BALANCER](#running-balancer)
   - [Understanding the Example](#notebook-example)
 
 ## Overview
@@ -36,17 +35,6 @@ By evaluating various time-series datasets and classifiers, BALANCER predicts wh
    pip install -r requirements.txt
    ```
 
-## Usage
-
-### Running BALANCER
-
-You can run BALANCER with your own time-series dataset by following these steps:
-
-1. Prepare your dataset in the required format.
-2. Run the BALANCER script:
-   ```bash
-   python balancer.py
-   ```
 
 ### Notebook Example
 
