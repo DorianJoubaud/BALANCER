@@ -6,8 +6,7 @@ This repository contains the implementation of **BALANCER** (imBALanced AugmeNta
 ## Table of Contents
 - [Overview](#overview)
 - [Installation](#installation)
-- [Usage](#usage)
-  - [Understanding the Example](#notebook-example)
+- [Usage](#notebook-example)
 
 ## Overview
 
